@@ -182,5 +182,22 @@
     "file_size_bytes": 3254776,
     "moved_date": "2026-08-11",
     "canonical_status": "public_brochure_storage"
+  },
+  {
+    "id": "BROCHURE-2026-012",
+    "vendor": "Anker SOLIX",
+    "product_or_subject": "Solarbank Max AC",
+    "document_type": "datasheet",
+    "public_path": "brochures/Anker-SOLIX-Solarbank-Max-AC-Datasheet-NL.pdf",
+    "original_private_path": null,
+    "original_source_url": "https://cdn.shopify.com/s/files/1/0726/0736/7225/files/Datasheet_20260526_E2_AC_NL_compressed.pdf?v=1780726254",
+    "filename_sanitized": true,
+    "notes": "Direct public supplier source; Dutch four-page datasheet; filename normalized; content unchanged.",
+    "public_github_url": "https://github.com/markvanderpoel/Verduurzaming-brochures/blob/main/brochures/Anker-SOLIX-Solarbank-Max-AC-Datasheet-NL.pdf",
+    "raw_url": "https://raw.githubusercontent.com/markvanderpoel/Verduurzaming-brochures/main/brochures/Anker-SOLIX-Solarbank-Max-AC-Datasheet-NL.pdf",
+    "sha256": "eb81e20f16d99abd81ebf8dffff968c4c69c8b90d5845ca368adbb23992bb0eb",
+    "file_size_bytes": 7525568,
+    "moved_date": "2026-08-11",
+    "canonical_status": "public_brochure_storage"
   }
 ]
