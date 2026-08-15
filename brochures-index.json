@@ -454,5 +454,22 @@
     "file_size_bytes": 393392,
     "moved_date": "2026-08-11",
     "canonical_status": "public_brochure_storage"
+  },
+  {
+    "id": "BROCHURE-2026-028",
+    "vendor": "Quatt",
+    "product_or_subject": "Chill",
+    "document_type": "technical specifications",
+    "public_path": "brochures/Quatt-Chill-Technical-Specifications.pdf",
+    "original_private_path": null,
+    "original_source_url": "https://25848718.fs1.hubspotusercontent-eu1.net/hubfs/25848718/Tech%20Specs/Quatt%20Chill%20Technical%20Specifications.pdf",
+    "filename_sanitized": true,
+    "notes": "Direct official Quatt source discovered from the current Quatt Chill product page; filename normalized; content unchanged.",
+    "public_github_url": "https://github.com/markvanderpoel/Verduurzaming-brochures/blob/main/brochures/Quatt-Chill-Technical-Specifications.pdf",
+    "raw_url": "https://raw.githubusercontent.com/markvanderpoel/Verduurzaming-brochures/main/brochures/Quatt-Chill-Technical-Specifications.pdf",
+    "sha256": "0f30fcba8b7d36828239dc16db642510473d225b318f0d989f3006a0f8d750b2",
+    "file_size_bytes": 1567383,
+    "moved_date": "2026-08-16",
+    "canonical_status": "public_brochure_storage"
   }
 ]
