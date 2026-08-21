@@ -15,4 +15,6 @@ Do not add personal or private documents, invoices, offers, contracts, correspon
 - `brochures/`: public supplier artifacts grouped by vendor and, where useful, by product or document title. Original PDF, image-set and archive formats are retained.
 - `brochures-index.json`: metadata index with public paths, raw URLs, original private paths, checksums and conservative document metadata.
 
+Single-file records use `sha256` for the file checksum and `file_size_bytes` for that file's size. Image-set records use `artifact_type: image_set`, a directory `public_path`, `page_count` and `raw_url_pattern`; their `sha256` is the checksum of an ordered page manifest containing `<page sha256>  <filename>\n` for each page in lexicographic filename order, and `file_size_bytes` is the total size of the page files. The `raw_url` field points to the first page for direct inspection.
+
 The index is operational metadata only. Canonical interpretation and project knowledge live in the private repository.
