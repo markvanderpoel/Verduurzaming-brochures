@@ -12,7 +12,7 @@ Do not add personal or private documents, invoices, offers, contracts, correspon
 
 ## Contents
 
-- `brochures/`: public supplier brochure, flyer, datasheet and product document files.
+- `brochures/`: public supplier artifacts grouped by vendor and, where useful, by product or document title. Original PDF, image-set and archive formats are retained.
 - `brochures-index.json`: metadata index with public paths, raw URLs, original private paths, checksums and conservative document metadata.
 
 The index is operational metadata only. Canonical interpretation and project knowledge live in the private repository.
